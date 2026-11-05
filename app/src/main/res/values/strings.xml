@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">chessassist</string>
+    <string name="a11y_desc">Reads the board on screen to draw move suggestions.</string>
+</resources>
